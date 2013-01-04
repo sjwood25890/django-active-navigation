@@ -1,8 +1,5 @@
 """
-This file demonstrates writing tests using the unittest module. These will pass
-when you run "manage.py test".
-
-Replace this with more appropriate tests for your application.
+Testing for the active navigation template tags
 """
 
 from django.core.urlresolvers import reverse
