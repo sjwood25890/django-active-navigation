@@ -1,0 +1,2 @@
+include README LICENCE
+recursive-include active_navigation *.py
