@@ -9,7 +9,7 @@ from django.test.client import RequestFactory
 
 class ActiveNavigationTagsTestCase(TestCase):
 
-    urls = 'active_navigation_tags.test_urls'
+    urls = 'active_navigation.test_urls'
 
     def setUp(self):
         self.factory = RequestFactory()
